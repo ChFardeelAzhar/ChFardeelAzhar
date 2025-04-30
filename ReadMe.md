@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Fardeel Azhar!<br>I'm a passionate Junior App Developer with 2-3 years of experience in building mobile apps using Java and Kotlin. I love exploring new technologies and creating user-friendly applications.<br><br>⚡ Tech Stack: Java | Kotlin | Jetpack Compose | Android Development<br>🏏 Hobbies: Cricket lover<br><br>🔭 Currently working on: Mobile app development<br>🌱 Currently learning: Compose Multiplatform<br>💬 Ask me about: (Android development, Jetpack Compose, Kotlin.)<br>📫 How to reach me: fardeelazhar82@gmail.com<br>😄 Pronouns: He/Him
+👋 Hi there, I'm Fardeel Azhar!<br>I'm a passionate Junior App Developer with 1 years of experience in building mobile apps using Java and Kotlin. I love exploring new technologies and creating user-friendly applications.<br><br>⚡ Tech Stack: Java | Kotlin | Jetpack Compose | Android Development<br>🏏 Hobbies: Cricket lover<br><br>🔭 Currently working on: Mobile app development<br>🌱 Currently learning: Compose Multiplatform<br>💬 Ask me about: (Android development, Jetpack Compose, Kotlin.)<br>📫 How to reach me: fardeelazhar82@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
