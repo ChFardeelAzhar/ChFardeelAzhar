@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Fardeel Azhar!<br>Experienced Android Developer with 6+ months of
+👋 Hi there, I'm Fardeel Azhar!<br>Experienced Android Developer with 9+ months of
 hands-on experience in developing and maintaining
 production-level e-commerce applications. Specialized
 in multi-module architecture, Jetpack Compose,
