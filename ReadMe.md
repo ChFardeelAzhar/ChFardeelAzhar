@@ -1,14 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Fardeel Azhar!<br>Experienced Android Developer with 1+ Years of
-hands-on experience in developing and maintaining
-production-level e-commerce applications. Specialized
-in multi-module architecture, Jetpack Compose,
-and modern Android development practices. Proven
-track record of working with complex business
-domains including retail, food delivery, beauty, and
-pharmacy verticals. Strong expertise in Clean
-Architecture, MVVM, GraphQL integration, and
-performance optimization.<br><br>⚡ Tech Stack: Java | Kotlin | Jetpack Compose | Android Development<br>🏏 Hobbies: Cricket lover<br><br>🔭 Currently working on: Mobile app development<br>🌱 Currently learning: Agentic AI <br>💬 Ask me about: (Android development, Jetpack Compose, Kotlin.)<br>📫 How to reach me: fardeelazhar82@gmail.com<br>😄 Pronouns: He/Him
+👋 Hi there, I'm Fardeel Azhar!<br>Dedicated Android Developer with 2+ years of experience in Kotlin and Jetpack Compose, including hands-on contribution to a production-level application with 5M+ downloads on Google Play Store. Specialized in multi-module architecture, Clean Architecture, and modern Android development practices. Proven track record of working with complex business domains including retail, food delivery, beauty, and pharmacy verticals. Strong expertise in MVVM, GraphQL integration, and performance optimization.<br><br>⚡ Tech Stack: Kotlin | Jetpack Compose | Android Development<br>🏏 Hobbies: Cricket lover<br><br>🔭 Currently working on: Mobile app development<br>🌱 Currently learning: Agentic AI <br>💬 Ask me about: (Android development, Jetpack Compose, Kotlin.)<br>📫 How to reach me: fardeelazhar82@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
