@@ -46,7 +46,7 @@ val developerProfile = DeveloperProfile(
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChFardeelAzhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📈 Contribution Graph
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChFardeelAzhar&theme=tokyo-night&hide_border=true)](https://github.com/ChFardeelAzhar)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChFardeelAzhar&bg_color=0d1117&color=ffd700&line=00c853&point=ffd700&area=true&area_color=00e676&hide_border=true)](https://github.com/ChFardeelAzhar)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChFardeelAzhar&theme=dark&no-frame=true&no-bg=true&margin-w=4)
